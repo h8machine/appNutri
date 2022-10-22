@@ -1,6 +1,11 @@
 {
-  "userId": 1,
-  "id": 3,
-  "title": "fugiat veniam minus",
-  "completed": false
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
