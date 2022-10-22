@@ -1,11 +1,25 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+    "paciente": [
+      {
+        "id": 1,
+        "nome": "Diogo",
+        "Data": "25/04/1997",
+        
+        "cardapio": [
+          {
+            "cafe": "pao de queijo",
+            "almoco": "feijoada",
+            "janta": "x-bacon"
+        }
+        ]
+      }
+    ],
+    
+    "alimento": [
+      {
+        "nome": "banana",
+        "foto": "https://www.infoescola.com/wp-content/uploads/2010/04/banana_600797891.jpg",
+        "categoria": "fruta"
     }
-  ],
-  "profile": {
-    "name": "typicode"
+   ]
   }
-}
